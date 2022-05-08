@@ -17,6 +17,8 @@ assignees: ''
 - Conference/Journal: 
 
 ## Summary
+### サマリ図表
+
 ### どんな論文か？
 
 ### 新規性
